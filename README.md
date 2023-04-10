@@ -1,2 +1,3 @@
-# electric-skating-pi
-Repository for raspberry pi electric skateboard project
+# electric-skateboard
+
+Repository for work done on my electric skateboard
